@@ -13,7 +13,7 @@ import { Live2DModel } from 'pixi-live2d-display';
  */
 
 /**
- * live2dcubismcore.min.jsとlib2d.jsをlive2d.htmlのscriptタグで読み込むこと。
+ * live2dcubismcore.min.jsとlib2d.jsをindex.htmlのscriptタグで読み込むこと。
  * この.jsファイルは次の場所で配布
  * https://github.com/guansss/pixi-live2d-display#cubism-core
  */
